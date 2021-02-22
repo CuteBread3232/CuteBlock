@@ -15,7 +15,8 @@ repositories {
 }
 
 dependencies {
-    implementation "com.github.Anuken.Mindustry:core:$pMindustryVersion"
+    compoleOnly "com.github.Anuken.Arc:arc-core:$pMindustryVersion"
+    compoleOnly "com.github.Anuken.Mindustry:core:$pMindustryVersion"
 }
 
 jar {
