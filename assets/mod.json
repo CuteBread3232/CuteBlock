@@ -1,9 +1,11 @@
 {
-  "name": "test-mod",
-  "displayName": "Test-Mod",
+  "name": "cute",
+  "displayName": "CuteBlock",
   "author": "[pink]CuteBread3232",
-  "description": "Test Mod",
-  "version": "1.0",
-  "main": "Test-Mod.core.Main",
-  "minGameVersion": "123"
+  "main": "CuteBlock.core.Main",
+  "description": "Cute!",
+  "version": 1.0,
+  "minGameVersion": 123,
+  "java": true,
+  "repo": "CuteBread3232/CuteBlock"
 }
